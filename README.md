@@ -73,7 +73,7 @@ VTuber-Asset-Gen/
 ## Related Projects
 
 - [ComfyUI](https://github.com/Comfy-Org/ComfyUI) — AI image generation backend
-- [CivitDeck](https://github.com/omooooori/CivitDeck) — CivitAI mobile client (shares API patterns)
+- [CivitDeck](https://github.com/rioX432/CivitDeck) — CivitAI mobile client (shares API patterns)
 - [spine-runtimes](https://github.com/EsotericSoftware/spine-runtimes) — Spine animation runtime
 
 ## Status
